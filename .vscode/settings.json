@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    "**/node_modules/**": true,
+    "**/android/**": true
+  },
+  "search.exclude": {
+    "**/node_modules/**": true,
+    "**/android/**": true
+  },
+  "java.configuration.excludePath": [
+    "**/node_modules",
+    "**/android"
+  ],
+  "java.project.explorer.showNonJavaResources": false
+}

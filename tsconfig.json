@@ -1,0 +1,5 @@
+{
+  "extends": "@react-native/typescript-config",
+  "include": ["**/*.ts", "**/*.tsx", "src/components/common/CustomButton.js", "src/components/common/LoadingSpinner.js", "src/data/contactsData.js"],
+  "exclude": ["**/node_modules", "**/Pods"]
+}
